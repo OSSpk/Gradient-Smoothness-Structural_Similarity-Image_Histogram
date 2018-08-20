@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 
 
 # You can change the image name here
-img = cv2.imread('v1.jpg', 0)
+img = cv2.imread('images/v1.jpg', 0)
 
 
 laplacian = cv2.Laplacian(img, cv2.CV_64F)

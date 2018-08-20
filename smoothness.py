@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # you can change the image name here
-img = cv2.imread('v1.jpg')
+img = cv2.imread('images/v1.jpg')
 
 kernel = np.ones((5, 5), np.float32) / 25
 dst = cv2.filter2D(img, -1, kernel)

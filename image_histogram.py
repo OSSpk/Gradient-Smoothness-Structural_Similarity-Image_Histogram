@@ -5,7 +5,7 @@ import numpy as np
 plt.style.use("seaborn-whitegrid")
 
 # you can change image name here
-img = cv2.imread('v1.jpg')
+img = cv2.imread('images/v1.jpg')
 
 color = ('b', 'g', 'r')
 

@@ -18,8 +18,8 @@ def mse(imageA, imageB):
 
 # you can change the image names here
 # NOTE: first resize the images to equal sizes [using some online tool]
-img1 = cv2.imread("f1_equal.jpeg")
-img2 = cv2.imread("v1_equal.jpeg")
+img1 = cv2.imread("images/f1_equal.jpeg")
+img2 = cv2.imread("images/v1_equal.jpeg")
 
 fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(10, 4),
                          sharex=True, sharey=True,
