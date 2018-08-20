@@ -17,14 +17,14 @@ Below are some images processed using the code given in this repo.
 An image gradient is a directional change in the intensity or color in an image. Here Laplacian Gradient Filter is applied to calculate the gradient. 
 
 <p align="middle">
-  <img src="../master/examples/gradient.png" width="700"/>
+  <img src="../master/examples/gradient.png" width="700" height="300"/>
 </P>
 
 ### 2) Image Smoothness
 Smoothing is often used to reduce noise within an image.
 
 <p align="middle">
-  <img src="../master/examples/smoothness.png" width="700"/>
+  <img src="../master/examples/smoothness.png" width="700" height="400"/>
 </P>
 
 ### 3) Image Histogram (Intensity Histogram)
