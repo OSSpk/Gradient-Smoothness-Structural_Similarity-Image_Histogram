@@ -1,4 +1,4 @@
-# Image Processing Techniques
+# 🖼️ Image Processing Techniques
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Gradient-Smoothness-Structural_Similarity-Image_Histogram.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Gradient-Smoothness-Structural_Similarity-Image_Histogram/fork)
