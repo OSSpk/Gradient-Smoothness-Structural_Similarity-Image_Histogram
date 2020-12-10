@@ -70,6 +70,13 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 If you liked the repo then please support it by giving it a star ⭐!
 
+## Sponsor
+- 🌟  **$9.99/month (recommended)** ❯ [Two cups of Caffè latte (coffee) every month](https://tinyurl.com/Haris-OSS-Coffee)
+- 🚀  **$99.99 (one-time sponsor)** ❯ [Support an hour of open-source work](https://tinyurl.com/Haris-OSS-Platinum)
+- 🔰  **$49.99 (one-time sponsor)** ❯ [Support an hour of maintenance](https://tinyurl.com/Haris-OSS-Gold)
+- ☕️  **$9.99 (one-time sponsor)** ❯ [Lunch/coffee](https://tinyurl.com/Haris-OSS-Silver)
+
+
 ## Contributions Welcome
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
